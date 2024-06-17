@@ -24,5 +24,5 @@
   <img src="https://user-images.githubusercontent.com/79712314/224833611-7aa7c2de-2747-403b-848a-3ca6bbd84f65.svg" alt="vue" width="40" height="40"/>
 </a> <a href="https://nuxt.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ebd92b15-970a-45b8-8c4c-0ecf69b17cdc" alt="nuxt" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" width="40" height="40"/></a>
+<a href="https://nextjs.org/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="nextjs" width="40" height="40"/></a>
 
